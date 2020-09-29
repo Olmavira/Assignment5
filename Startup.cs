@@ -42,8 +42,6 @@ namespace Assignment5
 
             app.UseMyMiddleware();
 
-            // app.UseHttpsRedirection();
-
             app.UseRouting();
 
             app.UseAuthorization();
