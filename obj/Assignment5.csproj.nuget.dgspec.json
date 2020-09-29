@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Koulu\\Periodi v3p1\\Taustajarjestelmat\\Assignment5\\teht3.csproj": {}
+    "E:\\Koulu\\Periodi v3p1\\Taustajarjestelmat\\Assignment5\\Assignment5.csproj": {}
   },
   "projects": {
-    "E:\\Koulu\\Periodi v3p1\\Taustajarjestelmat\\Assignment5\\teht3.csproj": {
+    "E:\\Koulu\\Periodi v3p1\\Taustajarjestelmat\\Assignment5\\Assignment5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Koulu\\Periodi v3p1\\Taustajarjestelmat\\Assignment5\\teht3.csproj",
-        "projectName": "teht3",
-        "projectPath": "E:\\Koulu\\Periodi v3p1\\Taustajarjestelmat\\Assignment5\\teht3.csproj",
+        "projectUniqueName": "E:\\Koulu\\Periodi v3p1\\Taustajarjestelmat\\Assignment5\\Assignment5.csproj",
+        "projectName": "Assignment5",
+        "projectPath": "E:\\Koulu\\Periodi v3p1\\Taustajarjestelmat\\Assignment5\\Assignment5.csproj",
         "packagesPath": "C:\\Users\\Ollim\\.nuget\\packages\\",
         "outputPath": "E:\\Koulu\\Periodi v3p1\\Taustajarjestelmat\\Assignment5\\obj\\",
         "projectStyle": "PackageReference",

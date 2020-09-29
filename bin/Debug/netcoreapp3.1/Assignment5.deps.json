@@ -22,7 +22,7 @@
   },
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "teht3/1.0.0": {
+      "Assignment5/1.0.0": {
         "dependencies": {
           "MongoDB.Driver": "2.11.2",
           "Newtonsoft.Json": "12.0.3",
@@ -310,10 +310,10 @@
           "WindowsBase": "4.0.0.0"
         },
         "runtime": {
-          "teht3.dll": {}
+          "Assignment5.dll": {}
         },
         "compile": {
-          "teht3.dll": {}
+          "Assignment5.dll": {}
         }
       },
       "DnsClient/1.3.1": {
@@ -2788,7 +2788,7 @@
     }
   },
   "libraries": {
-    "teht3/1.0.0": {
+    "Assignment5/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
