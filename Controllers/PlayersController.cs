@@ -59,8 +59,8 @@ namespace teht3.Controllers
         }
 
         [HttpGet]
-        [Route("players?minScore=x")]
-        public async Task<List<Player>> Ranges(int points)
+        [Route("overPoints")]
+        public async Task<List<Player>> Ranges([FromQuery]int points)
         {
             return await _repository.Ranges(points);
         }
@@ -73,15 +73,15 @@ namespace teht3.Controllers
         }
 
         [HttpGet]
-        [Route("players?name=x")]
-        public async Task<Player> SelectorMatching(string playerName)
+        [Route("name")]
+        public async Task<Player> SelectorMatching([FromQuery]string playerName)
         {
             return await _repository.SelectorMatching(playerName);
         }
 
         [HttpGet]
-        [Route("players?name=x")]
-        public async Task<List<Player>> SubDoc(ItemType itemType)
+        [Route("itemType")]
+        public async Task<List<Player>> SubDoc([FromQuery]ItemType itemType)
         {
             return await _repository.SubDoc(itemType);
         }
